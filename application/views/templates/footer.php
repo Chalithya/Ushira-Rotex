@@ -21,14 +21,14 @@
                             <div class="widget service-links-widget">
                                 <h3>Our Products</h3>
                                 <ul>
-                                    <li><a href="#">ISUZU Tanker Trucks</a></li>
-                                    <li><a href="#">ISUZU GIGA Trucks</a></li>
-                                    <li><a href="#">Garbage Trucks</a></li>
-                                    <li><a href="#">Upper Body Kit</a></li>
-                                    <li><a href="#">City-Service Trucks</a></li>
-                                    <li><a href="#">Special Purpose Trucks</a></li>
-                                    <li><a href="#">Hino700 Heavy Trucks</a></li>
-                                    <li><a href="#">Semi-trailer</a></li>
+                                    <li><a href="it">ISUZU Tanker Trucks</a></li>
+                                    <li><a href="ig">ISUZU GIGA Trucks</a></li>
+                                    <li><a href="gt">Garbage Trucks</a></li>
+                                    <li><a href="ub">Upper Body Kit</a></li>
+                                    <li><a href="cs">City-Service Trucks</a></li>
+                                    <li><a href="sp">Special Purpose Trucks</a></li>
+                                    <li><a href="hh">Hino700 Heavy Trucks</a></li>
+                                    <li><a href="st">Semi-trailer</a></li>
 
                                 </ul>
                             </div>
