@@ -282,8 +282,7 @@ perfect solution for your choice.</p>
                             </div>
                             <div class="project-info">
                                 <div class="inner-info">
-                                    <a href="#"><h3>Chemical Refinery</h3></a>
-                                    <div class="tags">Michigan, US</div>
+                                    <a href="#"><h3>ISUZU GIGA 10CBM Cement Mixer</h3></a>
                                 </div>
                             </div>
                         </div>
@@ -294,8 +293,7 @@ perfect solution for your choice.</p>
                             </div>
                             <div class="project-info">
                                 <div class="inner-info">
-                                    <a href="#"><h3>Chemical Refinery</h3></a>
-                                    <div class="tags">Michigan, US</div>
+                                    <a href="#"><h3>Hydraulic Rear Loaders</h3></a>
                                 </div>
                             </div>
                         </div>
@@ -306,8 +304,7 @@ perfect solution for your choice.</p>
                             </div>
                             <div class="project-info">
                                 <div class="inner-info">
-                                    <a href="#"><h3>Chemical Refinery</h3></a>
-                                    <div class="tags">Michigan, US</div>
+                                    <a href="#"><h3>ISUZU Vacuum Tanker Truck</h3></a>
                                 </div>
                             </div>
                         </div>
@@ -318,8 +315,7 @@ perfect solution for your choice.</p>
                             </div>
                             <div class="project-info">
                                 <div class="inner-info">
-                                    <a href="#"><h3>Chemical Refinery</h3></a>
-                                    <div class="tags">Michigan, US</div>
+                                    <a href="#"><h3>ISUZU Skip loader truck</h3></a>
                                 </div>
                             </div>
                         </div>
@@ -330,8 +326,7 @@ perfect solution for your choice.</p>
                             </div>
                             <div class="project-info">
                                 <div class="inner-info">
-                                    <a href="#"><h3>Chemical Refinery</h3></a>
-                                    <div class="tags">Michigan, US</div>
+                                    <a href="#"><h3>ISUZU Giga Dump Truck</h3></a>
                                 </div>
                             </div>
                         </div>
@@ -343,8 +338,7 @@ perfect solution for your choice.</p>
                             </div>
                             <div class="project-info">
                                 <div class="inner-info">    
-                                    <a href="#"><h3>Chemical Refinery</h3></a>
-                                    <div class="tags">Michigan, US</div>
+                                    <a href="#"><h3>ISUZU Giga Dump Truck</h3></a>
                                 </div>
                             </div>
                         </div>
@@ -355,8 +349,7 @@ perfect solution for your choice.</p>
                             </div>
                             <div class="project-info">
                                 <div class="inner-info">
-                                    <a href="#"><h3>Chemical Refinery</h3></a>
-                                    <div class="tags">Michigan, US</div>
+                                    <a href="#"><h3>ISUZU Giga Dump Truck</h3></a>
                                 </div>
                             </div>
                         </div>
